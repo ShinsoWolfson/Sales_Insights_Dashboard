@@ -87,14 +87,6 @@ This project exemplifies the power of data in driving meaningful business decisi
 
 ---
 
-## Future Work
-To further enhance the analysis:
-- Implement predictive modeling to forecast future sales trends.
-- Incorporate customer segmentation to refine marketing and sales strategies.
-- Expand the dataset to include global or multi-regional sales for a broader perspective.
-
----
-
 ## Contact
 For more details about this project or other inquiries:
 - **Email:** [wolfsonshinso@gmail.com]
