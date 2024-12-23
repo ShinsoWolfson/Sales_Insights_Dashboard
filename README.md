@@ -51,8 +51,8 @@ The primary goals of this project are:
 ---
 
 ## Tools and Technologies Used
-- **Data Visualization:** Power BI/Tableau
-- **Data Processing:** Python (Pandas, NumPy)
+- **Data Visualization:** Matplotlib
+- **Data Processing:** Python (Pandas, Seaborn)
 - **Dashboards and Reporting:** Interactive and dynamic visualizations for easy interpretation.
 - **Collaboration:** GitHub for version control and documentation.
 
