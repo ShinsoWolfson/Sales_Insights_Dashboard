@@ -10,6 +10,7 @@ This project comprises the following key dashboards and insights:
 
 ### 1. **Daily Sales Trend**
 <img src="graphs/Sales_Insights_Daily_Sales_Trend.png" alt="Daily Sales Trend" width="100%">
+
    - **Insights:**
      - Identified consistent patterns in daily sales performance, revealing peak and low-performing days.
      - Unearthed potential issues like gaps in daily operations or customer engagement.
@@ -19,6 +20,7 @@ This project comprises the following key dashboards and insights:
 
 ### 2. **Monthly Sales Trend**
 <img src="graphs/Sales_Insights_Monthly_Sales_Trend.png" alt="Monthly Sales Trend" width="100%">
+
    - **Insights:**
      - Monthly trends indicated fluctuations in sales, potentially due to seasonality or campaign effectiveness.
      - Periods of high growth align with major marketing pushes or seasonal demands.
@@ -28,6 +30,7 @@ This project comprises the following key dashboards and insights:
 
 ### 3. **Total Sales by Product Category**
 <img src="graphs/Sales_Insights_Total_Sales_Product_Category.png" alt="Total Sales by Category" width="100%">
+
    - **Insights:**
      - Uneven distribution of sales across product categories highlighted potential gaps in customer demand or product portfolio alignment.
      - Key product categories driving the majority of revenue were identified.
@@ -38,6 +41,7 @@ This project comprises the following key dashboards and insights:
 ### 4. **Overall Sales Performance Dashboard**
 <img src="graphs/Sales_Insights_Age_Distribution of Customers.png" alt="Age Distribution" width="100%">
 <img src="graphs/Sales_Insights_Dashboards.png" alt="All Dashboards" width="100%">
+
    - **Insights:**
      - Summarized high-level KPIs such as total revenue, units sold, and profit margins.
      - Provided a comprehensive overview of business performance, enabling stakeholders to make informed decisions.
