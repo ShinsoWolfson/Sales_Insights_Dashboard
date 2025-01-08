@@ -9,6 +9,7 @@ This project provides an in-depth analysis of sales performance across various d
 This project comprises the following key dashboards and insights:
 
 ### 1. **Daily Sales Trend**
+<img src="graphs/Sales_Insights_Daily_Sales_Trend.png" alt="Daily Sales Trend" width="100%">
    - **Insights:**
      - Identified consistent patterns in daily sales performance, revealing peak and low-performing days.
      - Unearthed potential issues like gaps in daily operations or customer engagement.
@@ -17,6 +18,7 @@ This project comprises the following key dashboards and insights:
      - Monitor and manage daily inventory to prevent stockouts or overstocking.
 
 ### 2. **Monthly Sales Trend**
+<img src="graphs/Sales_Insights_Monthly_Sales_Trend.png" alt="Monthly Sales Trend" width="100%">
    - **Insights:**
      - Monthly trends indicated fluctuations in sales, potentially due to seasonality or campaign effectiveness.
      - Periods of high growth align with major marketing pushes or seasonal demands.
@@ -25,6 +27,7 @@ This project comprises the following key dashboards and insights:
      - Conduct further analysis to pinpoint reasons behind low-performing months and address them.
 
 ### 3. **Total Sales by Product Category**
+<img src="graphs/Sales_Insights_Total_Sales_Product_Category.png" alt="Total Sales by Category" width="100%">
    - **Insights:**
      - Uneven distribution of sales across product categories highlighted potential gaps in customer demand or product portfolio alignment.
      - Key product categories driving the majority of revenue were identified.
@@ -33,6 +36,8 @@ This project comprises the following key dashboards and insights:
      - Consider restructuring underperforming categories by addressing pricing, positioning, or visibility.
 
 ### 4. **Overall Sales Performance Dashboard**
+<img src="graphs/Sales_Insights_Age_Distribution of Customers.png" alt="Age Distribution" width="100%">
+<img src="graphs/Sales_Insights_Dashboards.png" alt="All Dashboards" width="100%">
    - **Insights:**
      - Summarized high-level KPIs such as total revenue, units sold, and profit margins.
      - Provided a comprehensive overview of business performance, enabling stakeholders to make informed decisions.
@@ -53,7 +58,7 @@ The primary goals of this project are:
 ## Tools and Technologies Used
 - **Data Visualization:** Matplotlib
 - **Data Processing:** Python (Pandas, Seaborn)
-- **Dashboards and Reporting:** Interactive and dynamic visualizations for easy interpretation.
+- **Dashboards and Reporting:** Dynamic and detailed visualizations for easy interpretation.
 - **Collaboration:** GitHub for version control and documentation.
 
 ---
